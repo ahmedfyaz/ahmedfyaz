@@ -8,7 +8,7 @@
 
   <p style="font-size: 16px;">
     Creating <b>cross-platform mobile experiences</b> with pixel-perfect precision. <br/>
-    Based in Pakistan • Expected Graduation 2025
+    Based in Pakistan • Expected Graduation 2028
   </p>
 
   <a href="mailto:awanahmed@gmail.com">
