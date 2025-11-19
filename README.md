@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Fayyaz;Flutter+Developer+%F0%9F%93%B1;CS+Student+@+UCP+%F0%9F%8E%93;Building+Digital+Experiences" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Fayyaz;Flutter+Developer+%F0%9F%93%B1;CS+Student+@+UCP+%F0%9F%8E%93;Building+Cross-Platform+Apps" alt="Typing SVG" />
   </a>
 
   <p style="font-size: 16px;">
@@ -21,11 +21,11 @@
 
 <h3 align="center">⚡ Technical Arsenal</h3>
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple&perline=4" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp&perline=4" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=5" />
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql&perline=4" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,git&perline=4" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,git&perline=4" />
 </div>
 
 <br/>
