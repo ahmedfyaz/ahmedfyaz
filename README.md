@@ -47,9 +47,6 @@
 <h3 align="center">📊 Coding Activity</h3>
 <div align="center">
   
-  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfyaz&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
-  <br/><br/>
-
   <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
   
   <img src="https://streak-stats.demolab.com?user=ahmedfyaz&theme=tokyonight&hide_border=true&background=0D1117&hide_curr_streak_label=true" height="150" alt="streak graph" />
@@ -58,8 +55,7 @@
 
 <div align="center">
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="140" alt="languages graph" />
-</div>
+  
 
 <br/>
 <hr/>
