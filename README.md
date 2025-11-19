@@ -1,76 +1,68 @@
 <div align="center">
-  
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  
-  <h1>Hi, I'm Ahmed Fayyaz</h1>
-  
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fxara&weight=600&size=22&pause=1000&color=38BDF8&center=true&vCenter=true&width=435&lines=Flutter+Developer+%F0%9F%93%B1;CS+Student+at+UCP+%F0%9F%8E%93;Competitive+Coder+%F0%9F%A7%A0;Building+Cross-Platform+Apps" alt="Typing SVG" />
-  </a>
-  
-  <br/>
 
-  <p>
-    [cite_start]Currently completing my <b>BS in Computer Science</b> (2025) at UCP[cite: 12, 14]. <br/>
-    I specialize in building pixel-perfect <b>Flutter</b> applications and scalable backends.
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <br/>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Fayyaz;Flutter+Developer+%F0%9F%93%B1;CS+Student+@+UCP+%F0%9F%8E%93;Building+Digital+Experiences" alt="Typing SVG" />
+  </a>
+
+  <p style="font-size: 16px;">
+    Creating <b>cross-platform mobile experiences</b> with pixel-perfect precision. <br/>
+    Based in Pakistan • Expected Graduation 2025
   </p>
 
-  <p>
-    <a href="mailto:awanahmed@gmail.com">
-      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-    </a>
-    </p>
-</div>
-
-<hr/>
-
-<h3 align="center">🛠️ Languages & Tools</h3>
-<div align="center">
-  
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <br/>
-  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <a href="mailto:awanahmed@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-awanahmed@gmail.com-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
   
 </div>
 
-<hr/>
+<br/>
 
-<h3 align="center">📱 Featured Projects</h3>
+<h3 align="center">⚡ Technical Arsenal</h3>
 <div align="center">
-  
-| 📂 Project | 📝 Description | 🔧 Tech |
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,apple&perline=4" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=python,cpp,js,html,css&perline=5" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,git&perline=4" />
+</div>
+
+<br/>
+
+<h3 align="center">🚀 Featured Projects</h3>
+<div align="center">
+
+| 📱 Application | 📝 Capabilities | 🛠️ Core Tech |
 | :--- | :--- | :--- |
-| **USA Club App** | [cite_start]Member management & event scheduling system for a US client[cite: 19]. | `Flutter` `REST API` |
-| **E-Commerce** | [cite_start]Desktop Admin Panel + Mobile User App ecosystem[cite: 23]. | `Flutter` `Node.js` |
-| **COVID-19 Tracker** | [cite_start]Real-time global pandemic data visualization[cite: 26]. | `Flutter` `API` |
-| **Chat App** | [cite_start]Feature-rich messaging with Tencent UI Kit[cite: 29]. | `Tencent SDK` |
+| **USA Club App** | Full member management, event scheduling, and announcements for a US-based client. | `Flutter` `REST API` |
+| **E-Commerce Eco** | A dual-interface system: Desktop Admin Panel + Seamless Mobile User App. | `Flutter` `Node.js` |
+| **COVID-19 Tracker** | Real-time global data visualization tracking the pandemic via 3rd party APIs. | `Flutter` `Live Data` |
+| **Chat App** | High-performance messaging application integrated with Tencent UI Kit. | `Tencent SDK` |
 
 </div>
 
 <br/>
 
+<h3 align="center">📊 Coding Activity</h3>
 <div align="center">
-  <h3>📊 GitHub Stats</h3>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&count_private=true" height="150" alt="stats graph" />
   
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="180" alt="languages graph" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ahmedfyaz&theme=tokyonight&hide_border=true&background=0d1117&hide_curr_streak_label=true" height="150" alt="streak graph" />
+
 </div>
 
+<div align="center">
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="140" alt="languages graph" />
+</div>
+
+<br/>
 <hr/>
 
 <div align="center">
-  [cite_start]<i>"I love solving problems through Competitive Coding." [cite: 34]</i><br/>
-  [cite_start]<b>🏆 University Coding Competition Winner [cite: 33]</b>
+  <img src="https://komarev.com/ghpvc/?username=ahmedfyaz&label=Profile%20Views&color=7F5AF0&style=flat" alt="profile views" />
+  <br/>
+  <i>"I love solving problems through Competitive Coding."</i>
 </div>
