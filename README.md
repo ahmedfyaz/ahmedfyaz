@@ -8,7 +8,7 @@
 
   <p style="font-size: 16px;">
     Creating <b>cross-platform mobile experiences</b> with pixel-perfect precision. <br/>
-    Based in Pakistan • Expected Graduation 2028
+    Based in Pakistan • Expected Graduation 2025
   </p>
 
   <a href="mailto:awanahmed@gmail.com">
@@ -47,7 +47,10 @@
 <h3 align="center">📊 Coding Activity</h3>
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true&count_private=true" height="150" alt="stats graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=ahmedfyaz&theme=tokyonight&no-frame=true&margin-w=15" alt="trophies" />
+  <br/><br/>
+
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
   
   <img src="https://streak-stats.demolab.com?user=ahmedfyaz&theme=tokyonight&hide_border=true&background=0D1117&hide_curr_streak_label=true" height="150" alt="streak graph" />
 
