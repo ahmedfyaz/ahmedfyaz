@@ -1,9 +1,9 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28px"/>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <br/>
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Fayyaz;Flutter+Developer+%F0%9F%93%B1;CS+Student+@+UCP+%F0%9F%8E%93;Building+Cross-Platform+Apps" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&pause=1000&color=7F5AF0&center=true&vCenter=true&width=435&lines=Hi,+I'm+Ahmed+Fayyaz;Flutter+Developer+%F0%9F%93%B1;CS+Student+@+UCP+%F0%9F%8E%93;Building+Cross-Platform+Apps" alt="Typing SVG" />
   </a>
 
   <p style="font-size: 16px;">
@@ -47,15 +47,11 @@
 <h3 align="center">📊 Coding Activity</h3>
 <div align="center">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ahmedfyaz&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&hide_title=true" height="160" alt="stats graph" />
   
-  <img src="https://streak-stats.demolab.com?user=ahmedfyaz&theme=tokyonight&hide_border=true&background=0D1117&hide_curr_streak_label=true" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ahmedfyaz&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="160" alt="languages graph" />
 
 </div>
-
-<div align="center">
-  <br/>
-  
 
 <br/>
 <hr/>
