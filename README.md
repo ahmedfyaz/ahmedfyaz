@@ -11,8 +11,8 @@
     Based in Pakistan • Expected Graduation 2028
   </p>
 
-  <a href="mailto:awanahmed@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-awanahmed@gmail.com-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="mailto:ahmedfayyaz.ml@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-awanfayyaz.ml@gmail.com-7F5AF0?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   
 </div>
