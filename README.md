@@ -36,9 +36,10 @@
 | 📱 Application | 📝 Capabilities | 🛠️ Core Tech |
 | :--- | :--- | :--- |
 | **LangChain Ai Chat Bot** | LangChain Ai Chat Bot of Albert Enstein | `Python` `LangChain` `Gemini Api` |
-| **USA Club App** | Full member management, event scheduling, and announcements for a US-based client. | `Flutter` `REST API` |
+|**Weather App** | Weather App using Flutter and Weather Api| `Dart` `Flutter` `API` |
 | **E-Commerce Eco** | A dual-interface system: Desktop Admin Panel + Seamless Mobile User App. | `Flutter` `Node.js` |
 | **COVID-19 Tracker** | Real-time global data visualization tracking the pandemic via 3rd party APIs. | `Flutter` `Live Data` |
+| **USA Club App** | Full member management, event scheduling, and announcements for a US-based client. | `Flutter` `REST API` |
 | **Chat App** | High-performance messaging application integrated with Tencent UI Kit. | `Tencent SDK` |
 
 </div>
