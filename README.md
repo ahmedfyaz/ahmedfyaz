@@ -35,6 +35,7 @@
 
 | 📱 Application | 📝 Capabilities | 🛠️ Core Tech |
 | :--- | :--- | :--- |
+| **DEV BOT CHAT BOT** | Assists you with your coding and development tasks  | `Flutter` `Gemini Api` |
 | **LangChain Ai Chat Bot** | LangChain Ai Chat Bot of Albert Enstein | `Python` `LangChain` `Gemini Api` |
 |**Weather App** | Weather App using Flutter and Weather Api| `Dart` `Flutter` `API` |
 | **E-Commerce Eco** | A dual-interface system: Desktop Admin Panel + Seamless Mobile User App. | `Flutter` `Node.js` |
