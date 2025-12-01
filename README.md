@@ -26,6 +26,8 @@
   <img src="https://skillicons.dev/icons?i=nodejs,mongodb,postgres,mysql&perline=4" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,git&perline=4" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux&perline=1" />
 </div>
 
 <br/>
