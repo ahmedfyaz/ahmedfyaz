@@ -37,6 +37,7 @@
 
 | 📱 Application | 📝 Capabilities | 🛠️ Core Tech |
 | :--- | :--- | :--- |
+| **NEWS APP** | LETS YOU WACTH NEWS FROM ALL AROUND THE WORLD | `Flutter` `NEWS ORG API` |
 | **DEV BOT CHAT BOT** | Assists you with your coding and development tasks  | `Flutter` `Gemini Api` |
 | **LangChain Ai Chat Bot** | LangChain Ai Chat Bot of Albert Enstein | `Python` `LangChain` `Gemini Api` |
 |**Weather App** | Weather App using Flutter and Weather Api| `Dart` `Flutter` `API` |
