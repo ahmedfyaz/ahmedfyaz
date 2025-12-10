@@ -27,7 +27,7 @@
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=html,css,js,git&perline=4" />
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,react&perline=1" />
+  <img src="https://skillicons.dev/icons?i=linux,react&perline=2" />
 </div>
 
 <br/>
